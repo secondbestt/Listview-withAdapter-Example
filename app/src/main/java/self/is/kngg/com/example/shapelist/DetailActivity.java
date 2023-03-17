@@ -33,6 +33,7 @@ public class DetailActivity extends AppCompatActivity
         TextView tv = (TextView) findViewById(R.id.shapeName);
         ImageView iv = (ImageView) findViewById(R.id.shapeImage);
 
+//adding values
         tv.setText(selectedShape.getName());
         iv.setImageResource(selectedShape.getImage());
     }
