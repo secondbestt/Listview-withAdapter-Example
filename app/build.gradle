@@ -4,7 +4,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "self.is.kngg.com.example.shapelist"
+        applicationId "self.is.kngg.com.example.shapelist" //defining app id
         minSdkVersion 19
         targetSdkVersion 33
         versionCode 1
