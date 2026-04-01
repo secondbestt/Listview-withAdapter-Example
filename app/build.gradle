@@ -6,7 +6,7 @@ android {
     defaultConfig {
         applicationId "self.is.kngg.com.example.shapelist" //defining app id
         minSdkVersion 21 //min sdk
-        targetSdkVersion 33
+        targetSdkVersion 31
         versionCode 1
         versionName "1.0"
 
